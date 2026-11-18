@@ -1,0 +1,4 @@
+# GAS にアップロードするのは src/ 配下の .js と appsscript.json のみ
+**/**
+!*.js
+!appsscript.json

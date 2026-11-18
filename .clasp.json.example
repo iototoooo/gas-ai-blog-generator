@@ -1,0 +1,4 @@
+{
+  "scriptId": "ここにスクリプトIDを入れる（.clasp.json にコピーして使用。コミットしない）",
+  "rootDir": "src"
+}

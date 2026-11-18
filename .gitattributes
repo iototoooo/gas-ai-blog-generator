@@ -1,0 +1,2 @@
+# 改行コードを LF に統一（GAS / clasp / Node で共通）
+* text=auto eol=lf
